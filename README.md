@@ -17,7 +17,9 @@ Detects:
 ## Run
 
 Install deps:
+```python
 pip install pandas numpy scikit-learn matplotlib joblib
+```
 
 Put your data in:
 data/
@@ -26,5 +28,8 @@ Run the notebook or script.
 
 ## Notes
 
-- Works with large datasets (~2M rows)
+- Works with large datasets
 - Easy to modify / extend
+
+## Contribution
+Email me at : `abdelhaqnaciri0@gmail.com`
