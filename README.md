@@ -17,12 +17,12 @@ Detects:
 ## Run
 
 Install deps:
-```python
+```shell
 pip install pandas numpy scikit-learn matplotlib joblib
 ```
 
 Put your data in:
-data/
+`data/`
 
 Run the notebook or script.
 
