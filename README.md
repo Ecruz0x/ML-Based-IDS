@@ -22,15 +22,11 @@ Install deps:
 ```shell
 pip install pandas numpy scikit-learn matplotlib joblib
 ```
-
-Put your data in:
-`data/`
-
-Run the notebook. the trained model will be saved in `/model` which will be used to detect malicious traffic and save logs to a sql database.
+- Add your data in a folder called `data/`
+- Add the Database credentials inside `netsniffer.py`
+- Run `netsniffer.py`
 
 ## Notes
-- Add the Database credentials inside `netsniffer.py`
-- Add your data in a folder called `data/`
 - Model works with large datasets
 - Easy to modify / extend
 
