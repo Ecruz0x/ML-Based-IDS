@@ -23,7 +23,7 @@ Detects:
 pip install pandas numpy scikit-learn matplotlib joblib
 ```
 - Add your data in a folder called `data/`
-- Run the notebook - The trained model will be saved in `/models`, a sample is already availabe.
+- Run the notebook - The trained model will be saved in `/models`, a sample is already available.
 - Add the Database credentials inside `netsniffer.py`
 - Run `netsniffer.py`
 
