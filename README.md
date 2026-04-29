@@ -16,7 +16,7 @@ Detects:
 - Heartbleed
 - etc.
 
-## Run
+## Run:
 
 - Install deps:
 ```shell
@@ -27,9 +27,5 @@ pip install pandas numpy scikit-learn matplotlib joblib
 - Add the Database credentials and network interface inside `main.py`
 - Run `main.py`
 
-## Notes
-- Model works with large datasets
-- Easy to modify / extend
-
-## Contribution
+## Contribution:
 Email me at : `abdelhaqnaciri0@gmail.com`
