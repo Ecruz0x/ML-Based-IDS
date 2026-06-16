@@ -20,7 +20,7 @@ Detects:
 
 - Install deps:
 ```shell
-pip install pandas numpy scikit-learn matplotlib joblib
+pip install pandas numpy scikit-learn matplotlib joblib scapy
 ```
 - Add your data in a folder called `data/`
 - Run the notebook - The trained model will be saved in `/models`, a sample is already available.
